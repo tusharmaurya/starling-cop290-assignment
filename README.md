@@ -1,4 +1,4 @@
-# Boids
+# Starling Murmuration
 
 This project tries to simulate Starling murmuration. We simulated them using boids in 2D plane. The basic rules it follows are:
 
